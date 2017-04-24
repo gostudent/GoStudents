@@ -1,6 +1,7 @@
 # GoStudents
 
 [![Join the chat at https://gitter.im/gostudent/GoStudents](https://badges.gitter.im/gostudent/GoStudents.svg)](https://gitter.im/gostudent/GoStudents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 GoStudent is a global community for students who code in Golang
 
 ## Membership
