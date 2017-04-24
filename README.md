@@ -8,6 +8,6 @@ GoStudent is a global community for students who code in Golang
 
 Membership is open for anyone.
 
-[Apply Here](https://goo.gl/forms/vbTKhPRPay0YmDNv2)
+[Apply Here](https://goo.gl/forms/vbTKhPRPay0YmDNv2) or Join Gitter Chat
 
 After applying, the community will evaluate you application. Based on that we will sending invitations.
